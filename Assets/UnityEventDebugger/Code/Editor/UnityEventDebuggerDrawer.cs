@@ -72,7 +72,7 @@ namespace UnityEventDebugger.Editor
 					EditorGUI.BeginDisabledGroup(true);
 
 					EditorGUILayout.TextField("Callback", unityEventMethodContextHolder.CallbackName);
-					EditorGUILayout.ObjectField("Context", unityEventMethodContextHolder.Context, typeof(Object));
+					EditorGUILayout.ObjectField("Context", unityEventMethodContextHolder.Context, typeof(Object), true);
 
 					EditorGUI.EndDisabledGroup();
 

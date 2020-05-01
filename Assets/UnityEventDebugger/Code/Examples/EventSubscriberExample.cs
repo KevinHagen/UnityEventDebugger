@@ -12,9 +12,9 @@ namespace UnityEventDebugger.Examples
 	{
 		#region Serialize Fields
 
-		[SerializeField] private Button _button;
-		[SerializeField] private Slider _slider;
-		[SerializeField] private Toggle _toggle;
+		[SerializeField] private Button _button = null;
+		[SerializeField] private Slider _slider = null;
+		[SerializeField] private Toggle _toggle = null;
 
 		#endregion
 

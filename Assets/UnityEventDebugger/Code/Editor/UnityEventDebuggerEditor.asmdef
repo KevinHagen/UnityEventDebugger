@@ -1,0 +1,15 @@
+{
+    "name": "UnityEventDebuggerEditor",
+    "references": [
+        "GUID:5c001323c872ccf499af7db184ff6267"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

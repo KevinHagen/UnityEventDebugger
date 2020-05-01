@@ -12,7 +12,7 @@ namespace UnityEventDebugger.Examples
 	{
 		#region Serialize Fields
 
-		[SerializeField] private MyCustomUnityEvent _event;
+		[SerializeField] private MyCustomUnityEvent _event = null;
 
 		#endregion
 
